@@ -1,1 +1,1 @@
-# movie-recomendation-system-using-Autoencoder
+# movie-recomendation-system-using-BoltzmanMachine
